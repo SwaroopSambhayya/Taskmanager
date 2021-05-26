@@ -52,7 +52,7 @@ class Home extends StatelessWidget {
                     height: 10,
                   ),
                   Padding(
-                    padding: EdgeInsets.only(left: 10),
+                    padding: EdgeInsets.only(left: 20),
                     child: Align(
                       alignment: Alignment.topLeft,
                       child: Text(
@@ -66,7 +66,7 @@ class Home extends StatelessWidget {
                     ),
                   ),
                   Padding(
-                    padding: EdgeInsets.only(left: 10),
+                    padding: EdgeInsets.only(left: 20),
                     child: Align(
                       alignment: Alignment.topLeft,
                       child: Text(
