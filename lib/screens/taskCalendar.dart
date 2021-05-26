@@ -149,7 +149,8 @@ class TaskCalendar extends StatelessWidget {
                             style: TextStyle(
                                 color: secondaryTextColor.withOpacity(0.6),
                                 fontSize: 10,
-                                fontFamily: "Poppins"),
+                                fontFamily: "Poppins",
+                                fontWeight: FontWeight.w600),
                           ),
                           SizedBox(
                             height: 30,
@@ -159,7 +160,8 @@ class TaskCalendar extends StatelessWidget {
                             style: TextStyle(
                                 color: secondaryTextColor.withOpacity(0.6),
                                 fontSize: 10,
-                                fontFamily: "Poppins"),
+                                fontFamily: "Poppins",
+                                fontWeight: FontWeight.w600),
                           ),
                         ],
                       ),
@@ -185,7 +187,8 @@ class TaskCalendar extends StatelessWidget {
                         style: TextStyle(
                             color: secondaryTextColor.withOpacity(0.6),
                             fontSize: 10,
-                            fontFamily: "Poppins"),
+                            fontFamily: "Poppins",
+                            fontWeight: FontWeight.w600),
                       ),
                     ),
                     SizedBox(
@@ -238,7 +241,8 @@ class TaskCalendar extends StatelessWidget {
                             style: TextStyle(
                                 color: secondaryTextColor.withOpacity(0.6),
                                 fontSize: 10,
-                                fontFamily: "Poppins"),
+                                fontFamily: "Poppins",
+                                fontWeight: FontWeight.w600),
                           ),
                           SizedBox(
                             height: 30,
@@ -248,7 +252,8 @@ class TaskCalendar extends StatelessWidget {
                             style: TextStyle(
                                 color: secondaryTextColor.withOpacity(0.6),
                                 fontSize: 10,
-                                fontFamily: "Poppins"),
+                                fontFamily: "Poppins",
+                                fontWeight: FontWeight.w600),
                           ),
                         ],
                       ),
@@ -277,7 +282,8 @@ class TaskCalendar extends StatelessWidget {
                             style: TextStyle(
                                 color: secondaryTextColor.withOpacity(0.6),
                                 fontSize: 10,
-                                fontFamily: "Poppins"),
+                                fontFamily: "Poppins",
+                                fontWeight: FontWeight.w600),
                           ),
                           SizedBox(
                             height: 30,
@@ -287,7 +293,8 @@ class TaskCalendar extends StatelessWidget {
                             style: TextStyle(
                                 color: secondaryTextColor.withOpacity(0.6),
                                 fontSize: 10,
-                                fontFamily: "Poppins"),
+                                fontFamily: "Poppins",
+                                fontWeight: FontWeight.w600),
                           ),
                         ],
                       ),
