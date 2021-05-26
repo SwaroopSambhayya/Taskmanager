@@ -1,7 +1,8 @@
 # task_manager
 
-A new Flutter project.
+## UI Template
 
+![UI TEMPLATE](https://cdn.dribbble.com/users/1615584/screenshots/15571949/media/7e95f0fddb7957220033569815613b10.jpg?compress=1&resize=1200x900)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
